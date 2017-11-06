@@ -15,5 +15,5 @@ _ Delete uploaded files
 
 Available commands to run with `npm run`:
 
-`start` - Start Node server
-`dev` - Start webpack server for UI development
+- `start` - Start Node server
+- `dev` - Start webpack server for UI development
