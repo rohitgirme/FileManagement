@@ -1,10 +1,11 @@
 {
   "name": "easy-up",
   "version": "1.0.0",
-  "description": "File upload project",
+  "description": "File Management",
   "main": "index.js",
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "node ./bin/www",
+    "dev": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
   },
   "author": "Rohit Girme",
   "license": "MIT",
