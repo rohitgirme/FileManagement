@@ -1,0 +1,44 @@
+.header-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.glyphicon {
+    font-size: large;
+    cursor: pointer;
+}
+
+.upload-form {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.upload-form .form-group {
+    text-transform: capitalize;
+}
+
+.upload-form .btn-upload {
+    text-transform: uppercase;
+}
+
+.upload-form .form-group {
+    margin-bottom: 75px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.upload-form ul ul {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 10px;
+}
+
+.upload-form ul h5 {
+    padding-right: 15px;
+    display: inline-block;
+}
